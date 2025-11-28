@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-	cout<<"Hello!I am HuYilin!\n";
+	cout<<"Hello!I am HuYilin!\nI major in CS";
 }
